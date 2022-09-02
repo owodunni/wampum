@@ -105,4 +105,4 @@ def largest_triangle_three_buckets(data, threshold):
 
     sampled.append(data[len(data) - 1])  # Always add last
 
-    return
+    return sampled
